@@ -19,8 +19,6 @@
 .. _pyspiflash: https://github.com/eblot/pyspiflash/
 .. _pyi2cflash: https://github.com/eblot/pyi2cflash/
 .. _libusb: https://www.libusb.info/
-.. _Libusb on Windows: https://github.com/libusb/libusb/wiki/Windows
-.. _Libusb win32: https://sourceforge.net/projects/libusb-win32/files/libusb-win32-releases/
 .. _FTDI macOS guide: https://www.ftdichip.com/Support/Documents/AppNotes/AN_134_FTDI_Drivers_Installation_Guide_for_MAC_OSX.pdf
 .. _Libusb issue on macOs: https://github.com/libusb/libusb/commit/5e45e0741daee4fa295c6cc977edfb986c872152
 .. _FT_PROG: https://www.ftdichip.com/Support/Utilities.htm#FT_PROG
